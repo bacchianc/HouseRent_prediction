@@ -3,6 +3,7 @@ Decision Tree Regressor, Rnadom Forest Regressor, House Rent Prediction
 # Machine Learning Model to predicts the monthly rental of a house 
 
 1. Introduction
+
 This project focuses on building a model to predict monthly rental of a house.
 
 The value of a house is more than just location and square footage. Houses have several features that make up it's value.We are going to take advantage of all the features to make accurate predictions about the rent of any house.
